@@ -72,3 +72,4 @@ function openDoor(doorNumber) {
     <a href="index.html">Go Back</a>
 </body>
 </html>
+1
