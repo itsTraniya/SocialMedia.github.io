@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+cd /path/to/your/repo  # Navigate to your repository folder
+mkdir images           # Create an 'images' folder (or any folder name you prefer)
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,6 +17,7 @@
         <div class="door" onclick="openDoor(3)">Door 3</div>
         <div class="door" onclick="openDoor(4)">Door 4</div>
     </div>
+
     <script src="script.js"></script>
 </body>
 </html>
@@ -72,4 +76,4 @@ function openDoor(doorNumber) {
     <a href="index.html">Go Back</a>
 </body>
 </html>
-1
+
